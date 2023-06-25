@@ -1,0 +1,64 @@
+.tab-list-items-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 40px;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.tab-id-name-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 120px;
+    margin: 0 0 0 22px;
+    padding: 0;
+}
+
+.tab-item-id {
+    font-size: 16px;
+}
+
+.tab-quote-name {
+    color: #2E2EFF;
+    font-size: 16px;
+    margin-left: 30px;
+}
+
+.tab-opp-div {
+    width: 100px;
+    margin-left: 165px;
+    padding: 0;
+}
+
+.tab-opportunity-name {
+    align-content: start;
+    color: #2E2EFF;
+    font-size: 16px;
+    margin: 0;
+}
+
+.tab-checkbox-div {
+    margin-left: 150px;
+}
+
+.tab-expiry-div {
+    margin-left: 230px;
+}
+
+.tab-sub-total-div {
+    width: 120px;
+    margin-left: 250px;
+}
+
+.tab-total-div {
+    width: 120px;
+    margin-left: 125px;
+}
+
+.tab-arrow {
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(83, 77, 77);
+    margin-left: 80px;
+}
